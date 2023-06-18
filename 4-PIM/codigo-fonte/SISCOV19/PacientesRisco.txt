@@ -1,0 +1,28 @@
+
+CEP: 00000 000
+
+Idade: 120
+
+CEP: 0 0000 000
+
+Idade: 71
+
+CEP: 0.0000-000
+
+Idade: 111
+
+CEP: 0
+
+Idade: 111
+
+CEP: 0
+
+Idade: 111
+
+CEP: 0.0000-000
+
+Idade: 120
+
+CEP: 0.0000-000
+
+Idade: 19

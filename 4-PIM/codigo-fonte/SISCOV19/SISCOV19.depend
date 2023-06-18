@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1638120842 source:c:\users\asus user\documents\unip\#pim iv\pim iv - grupo\siscov19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
+1638131073 source:c:\users\asus user\documents\unip\#pim iv\pim iv - siscov19 - by hmt\siscov19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+

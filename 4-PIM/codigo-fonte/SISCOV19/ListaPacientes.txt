@@ -1,0 +1,258 @@
+
+Nome Completo: t t
+
+CPF/CIC/RG: 0 0 0
+
+Tel/Cel: 
+Rua/Av: ddd dddd
+
+Número/Complemento: 1 A
+
+Bairro: dsds sdsds
+
+Cidade: sasa sasa
+
+Estado: qqq qqqq
+
+CEP: 00000 000
+
+Data de nascimento: 1/1/1901
+Email: teste@teste.com
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? SIM
+Especificacao da comorbidade: *****
+
+Nome Completo: t t
+
+CPF/CIC/RG: 00 00
+
+Tel/Cel: 
+Rua/Av: g g g
+
+Número/Complemento: g 1
+
+Bairro: fgh
+
+Cidade: ee eee
+
+Estado: eerte
+
+CEP: 0 0000 000
+
+Data de nascimento: 10/10/1950
+Email: fggfgf@sgsfgs
+
+Data do diagnostico: 28/11/2021
+Possui Comorbidade? SIM
+Especificacao da comorbidade: asdasd
+
+Nome Completo: TESTANDO CASO DE RISCO
+
+CPF/CIC/RG: (00) 00000-0000
+
+Tel/Cel: 
+Rua/Av: TESTE
+
+Número/Complemento: 0 BL 0 APTO 0
+
+Bairro: TESTING
+
+Cidade: TESTOLANDIA
+
+Estado: TESTANDO
+
+CEP: 0.0000-000
+
+Data de nascimento: 10/10/1910
+Email: TESTE@TESTE.COM
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? SIM
+Especificacao da comorbidade: OBESIDADE MORBIDA
+
+Nome Completo: a
+
+CPF/CIC/RG: 0
+
+Tel/Cel: 
+Rua/Av: 0
+
+Número/Complemento: 0
+
+Bairro: 0
+
+Cidade: 0
+
+Estado: 0
+
+CEP: 0
+
+Data de nascimento: 10/10/1910
+Email: 0
+
+Data do diagnostico: 21/11/2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: 0
+
+CPF/CIC/RG: 0
+
+Tel/Cel: 
+Rua/Av: 0
+
+Número/Complemento: 0
+
+Bairro: 0
+
+Cidade: 0
+
+Estado: 0
+
+CEP: 0
+
+Data de nascimento: 10/10/1910
+Email: a
+
+Data do diagnostico: 28/11/2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: TESTANDO CASO DE RISCO POR IDADE
+
+CPF/CIC/RG: (00) 00000-0000
+
+Tel/Cel: 
+Rua/Av: TESTE 1
+
+Número/Complemento: 1 BL 1 APTO 1
+
+Bairro: TESTING
+
+Cidade: TESTOLANDIA
+
+Estado: TESTANDO
+
+CEP: 0.0000-000
+
+Data de nascimento: 1/1/1901
+Email: TESTE1@TESTE.COM
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: TESTANDO CASO DE RISCO POR COMORBIDADE
+
+CPF/CIC/RG: (00) 00000-0002
+
+Tel/Cel: 
+Rua/Av: TESTE 2
+
+Número/Complemento: 2 BL 2 APTO 2
+
+Bairro: TESTING
+
+Cidade: TESTOLANDIA
+
+Estado: TESTANDO
+
+CEP: 0.0000-000
+
+Data de nascimento: 2/2/2002
+Email: TESTE2@TESTE.COM
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? SIM
+Especificacao da comorbidade: OBESIDADE MORBIDA
+
+Nome Completo: TESTE SEM GRUPO DE RISCO
+
+CPF/CIC/RG: (00) 00000-0003
+
+Tel/Cel: 
+Rua/Av: TESTE 3
+
+Número/Complemento: 3 BL 3APTO 3
+
+Bairro: TESTING
+
+Cidade: TESTOLANDIA
+
+Estado: TESTANDO
+
+CEP: 0.0000-000
+
+Data de nascimento: 10/10/2010
+Email: TESTE3@TESTE.COM
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: a
+
+CPF/CIC/RG: a
+
+Tel/Cel: 
+Rua/Av: a
+
+Número/Complemento: a
+
+Bairro: a
+
+Cidade: a
+
+Estado: a
+
+CEP: a
+
+Data de nascimento: 10/10/2010
+Email: a
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: a
+
+CPF/CIC/RG: a
+
+Tel/Cel: 
+Rua/Av: a
+
+Número/Complemento: a
+
+Bairro: a
+
+Cidade: a
+
+Estado: a
+
+CEP: a
+
+Data de nascimento: 10/10/2010
+Email: a
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
+Nome Completo: TESTE SEM GRUPO DE RISCO
+
+CPF/CIC/RG: (00) 00000-0003
+
+Tel/Cel: 
+Rua/Av: TESTE 3
+
+Número/Complemento: 3 BL 3 APTO 3
+
+Bairro: TESTING
+
+Cidade: TESTOLANDIA
+
+Estado: TESTANDO
+
+CEP: 0.0000-000
+
+Data de nascimento: 10/10/2010
+Email: TESTE@TESTE.COM
+
+Data do diagnostico: 28.11.2021
+Possui Comorbidade? NÃO
+Especificacao da comorbidade: Nenhum
